@@ -12,7 +12,7 @@ I'm a student of Software Analysis and Development at [Mackenzie](https://www.ma
 - Express.Js
 
 ### 🤔 About me
-- 🛠️ [Here](https://www.pietrobondioli.com.br/about) you can check a complete list of technologies that i have already worked with.
+- 🛠️ [Here](https://www.pietrobondioli.com.br/about) you can check a complete list of technologies that I have already worked with.
 - 👾 I really like to spent time ~~(that i don't have)~~ solving futile life questions using math and programming
 - 🪙 I'm a crypto enthusiast
 - 💼 I use [VSCode](https://code.visualstudio.com/) and [Firefox](https://www.mozilla.org/en-US/firefox/) on [Arch Linux](https://archlinux.org/)
@@ -20,12 +20,12 @@ I'm a student of Software Analysis and Development at [Mackenzie](https://www.ma
 - 🐶 I love animals
 - ⚙️ Open-Source enthusiast
 - 🐉 I'm passionate about Tolkien's literature and all things about the world he created
-- 🧙 I love play RPG
+- 🧙 I love to play RPG
 
 ### 📬 How to reach me
 - My Personal [Website](https://www.pietrobondioli.com.br/)
-- Email: bondiolipietrodev@gmail.com
-- Linkedin: [@pietrobondioli](https://www.linkedin.com/in/pietro-bondioli-080307201)
+- Email: pietrobondiolideveloper@gmail.com
+- Linkedin: [@pietrobondioli](https://www.linkedin.com/in/pietrobondioli/)
 - Github: [@bondiolipietro](https://github.com/bondiolipietro)
 - Instagram: [@pietrobondioli](https://www.instagram.com/pietrobondioli/)
 - Twitter: [@pietrobondioli_](https://twitter.com/)
