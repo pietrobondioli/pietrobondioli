@@ -24,11 +24,11 @@ I'm a student of Software Analysis and Development at [Mackenzie](https://www.ma
 
 ### 📬 How to reach me
 - My Personal [Website](https://www.pietrobondioli.com.br/)
-- Email: pietrobondiolideveloper@gmail.com
+- Email: [pietrobondiolideveloper@gmail.com](mailto:pietrobondiolideveloper@gmail.com)
 - Linkedin: [@pietrobondioli](https://www.linkedin.com/in/pietrobondioli/)
 - Github: [@bondiolipietro](https://github.com/bondiolipietro)
 - Instagram: [@pietrobondioli](https://www.instagram.com/pietrobondioli/)
-- Twitter: [@pietrobondioli_](https://twitter.com/)
+- Twitter: [@pietrobondioli_](https://twitter.com/bondioli_pietro)
 
 <br />
 
