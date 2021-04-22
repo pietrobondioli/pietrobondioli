@@ -28,7 +28,7 @@ I'm a student of Software Analysis and Development at [Mackenzie](https://www.ma
 - Linkedin: [@pietrobondioli](https://www.linkedin.com/in/pietrobondioli/)
 - Github: [@bondiolipietro](https://github.com/bondiolipietro)
 - Instagram: [@pietrobondioli](https://www.instagram.com/pietrobondioli/)
-- Twitter: [@pietrobondioli_](https://twitter.com/bondioli_pietro)
+- Twitter: [@pietrobondioli_](https://twitter.com/pietro_bondioli)
 
 <br />
 
