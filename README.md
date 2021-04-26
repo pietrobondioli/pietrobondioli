@@ -1,5 +1,5 @@
 ##  Pietro Bondioli
-I'm a student of Software Analysis and Development at [Mackenzie](https://www.mackenzie.br/). Few techs I enjoy to work in are Javascript and Python. [I write articles](https://www.pietrobondioli.com.br/articles) about technology and, sometimes, about some _forgettable thoughts_ of mine.
+I'm a student of Software Analysis and Development at [Mackenzie](https://www.mackenzie.br/). Few techs I enjoy to work in are Javascript, Python and Java. [I write articles](https://www.pietrobondioli.com.br/articles) about technology and, sometimes, about some _forgettable thoughts_ of mine.
 
 ### 💡 Main interests
 - Web Development (Back & Front end)
