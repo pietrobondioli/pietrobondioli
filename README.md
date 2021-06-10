@@ -1,14 +1,18 @@
 ##  Pietro Bondioli
+
 I'm a Software Engineer at @takenet and a student of Software Analysis and Development at [Mackenzie](https://www.mackenzie.br/). Few techs I enjoy to work in are Javascript and Python. [I write articles](https://www.pietrobondioli.com.br/articles) about technology and, sometimes, about some _forgettable thoughts_ of mine.
 
 ### 💡 Main interests
+
 - Backend Development
 
 ### 🌱 Currently learning
+
 - C# (.NET Core)
 - Software Architecture
 
 ### 🤔 About me
+
 - 👨🏻‍💻 I'm currently enjoying study C#  (.NET Core) and software architecture
 - 🛠️ [Here](https://www.pietrobondioli.com.br/about) you can check a complete list of technologies that I have already worked with
 - 👾 I really like to spent time ~~(that i don't have)~~ solving futile life questions using math and programming
@@ -20,6 +24,7 @@ I'm a Software Engineer at @takenet and a student of Software Analysis and Devel
 - 🪙 I'm a crypto enthusiast
 
 ### 📬 How to reach me
+
 - My Personal [Website](https://www.pietrobondioli.com.br/)
 - Email: [pietrobondiolideveloper@gmail.com](mailto:pietrobondiolideveloper@gmail.com)
 - Linkedin: [@pietrobondioli](https://www.linkedin.com/in/pietrobondioli/)
