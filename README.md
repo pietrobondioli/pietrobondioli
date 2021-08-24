@@ -28,8 +28,6 @@ I'm a Software Engineer at @takenet and a student of Software Analysis and Devel
 - Instagram: [@pietrobondioli](https://www.instagram.com/pietrobondioli/)
 - Github: [@bondiolipietro](https://github.com/bondiolipietro)
 
-<br />
-
 ---
 
 #### _“This is our big mistake: to think we look forward to death. Most of death is already gone. Whatever time has passed is owned by death.”_
