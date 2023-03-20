@@ -5,7 +5,7 @@ Full Stack Software Engineer, Student 100% of the Time
 ### 📬 How to reach me
 
 - My Personal [Website](https://www.pietrobondioli.com.br/)
-- Email: [pietrobondiolideveloper@gmail.com](mailto:dev@pietrobondioli.com.br)
+- Email: [dev@pietrobondioli.com.br](mailto:dev@pietrobondioli.com.br)
 - Linkedin: [@pietrobondioli](https://www.linkedin.com/in/pietrobondioli/)
 
 ---
