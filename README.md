@@ -2,6 +2,14 @@
 
 Full Stack Software Engineer, Student 100% of the Time
 
+### Stuff
+
+- Linux (arch btw)
+- C#, .NET
+- Typescript, Javascript, Node, React, NestJS
+- Rust
+- Português, English, Español
+
 ### 📬 How to reach me
 
 - My Personal [Website](https://www.pietrobondioli.com.br/)
