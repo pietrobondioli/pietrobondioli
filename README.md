@@ -7,7 +7,7 @@ Full Stack Software Engineer, Student 100% of the Time
 - Linux (arch btw)
 - C#, .NET
 - Typescript, Javascript, Node, React, NestJS
-- Rust
+- Go
 - Português, English, Español
 
 ### 📬 How to reach me
