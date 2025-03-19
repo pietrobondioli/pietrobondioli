@@ -1,20 +1,19 @@
 # Pietro Bondioli
 
-Full Stack Software Engineer, Student 100% of the Time
-
-### Stuff
+Full Stack Software Engineer
 
 - Linux (arch btw)
-- C#, .NET
-- Typescript, Javascript, Node, React, NestJS
+- Web
 - Go
+- C#, .NET
+- Typescript, Javascript, Node, React
 - Português, English, Español
 
 ### 📬 How to reach me
 
-- My Personal [Website](https://www.pietrobondioli.com.br/)
 - Email: [dev@pietrobondioli.com.br](mailto:dev@pietrobondioli.com.br)
 - Linkedin: [@pietrobondioli](https://www.linkedin.com/in/pietrobondioli/)
+- My Personal [Website](https://www.pietrobondioli.com.br/)
 
 ---
 
